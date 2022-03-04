@@ -1,4 +1,4 @@
-## Hi eu sou o Lucas campos, amante de tecnologia é Engenheiro de Software!
+## Seja bem vindo, eu sou o Lucas campos, amante de tecnologia é Engenheiro de Software!
 <div align="center">
   <a href="https://github.com/lucasxcampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasxcampos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
